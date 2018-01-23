@@ -1,0 +1,1 @@
+{"edad":5,"raza":"Poodle","color":"blanco"}
